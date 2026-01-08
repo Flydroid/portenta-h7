@@ -45,3 +45,7 @@ overflow-checks = false
 lto = true
 panic = 'abort'
 incremental = false
+
+
+[lib]
+test = false
